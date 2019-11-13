@@ -7,12 +7,14 @@
 #IncludeRegexTransform: 
 
 /Users/ashtonrodriquez/Documents/USF/Senior year/Semester 1/Algorithms/project2/DynamicProgramming/main.cpp
-iostream
--
 stdio.h
 /Users/ashtonrodriquez/Documents/USF/Senior year/Semester 1/Algorithms/project2/DynamicProgramming/stdio.h
 iostream
 -
 algorithm
+-
+fstream
+-
+string
 -
 
